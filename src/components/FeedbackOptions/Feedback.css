@@ -1,0 +1,14 @@
+.FeedbackOptions {
+  display: flex;
+  gap: 10px;
+}
+
+.FeedbackOptions__btn {
+  border: 0;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.FeedbackOptions__btn:hover,
+.FeedbackOptions__btn:focus {
+  background-color: #dedede;
+}
